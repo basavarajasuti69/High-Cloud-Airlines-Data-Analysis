@@ -167,13 +167,13 @@ Features being developed:
 
 ### Excel Dashboard
 
-(Add screenshot here)
+(Excel Dashboard](dashboard screen shot.png)
 
 ---
 
 ### Power BI Dashboard
 
-(Add screenshot here)
+(power bi dashboard](power bi dashboard.png)
 
 ---
 
