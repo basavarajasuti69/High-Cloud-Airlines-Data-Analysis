@@ -139,7 +139,7 @@ Developed an interactive dashboard using:
 
 ### 🚧 Stage 4 – Tableau Dashboard
 
-Currently recreating the Power BI dashboard in Tableau.
+recreated the Power BI dashboard in Tableau.
 
 Features being developed:
 
@@ -199,7 +199,6 @@ Features being developed:
 
 ## 🚀 Future Improvements
 
-- Complete Tableau Dashboard
 - Add Python Data Analysis
 - Build Predictive Analytics Model
 - Publish Interactive Dashboard
